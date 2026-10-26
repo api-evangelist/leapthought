@@ -64,5 +64,18 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-LeapThought is a company surfaced via the API Evangelist harvest backlog (source: vc-portfolio) and added to the network as a stub for full-pipeline profiling.
-- https://www.leapthought.com/
+LeapThought provides the FULCRUMHQ platform, an AI‑powered, cloud‑based, BIM‑enabled integrated digital delivery solution for large‑scale construction and infrastructure projects. The platform enables architecture, engineering, construction, and operations firms, asset and infrastructure owners, regulatory agencies, and government bodies to manage design, construction, asset registration, and handover processes with shared data, collaboration tools, and analytics.
+
+**Areas:** Digital Delivery · Lifecycle Management · Construction Software · BIM · Asset Management · Regulatory Platforms · AI Assistant
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.leapthought.com/)
+- [Pricing](https://www.leapthought.com/pricing)
+- [Privacy policy](https://www.leapthought.com/privacy-and-cookie-policy?hsLang=en)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/leapthought/](https://apis.io/providers/leapthought/).
